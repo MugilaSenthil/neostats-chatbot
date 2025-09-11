@@ -9,7 +9,7 @@ Solution: This chatbot functions as an intelligent document analysis assistant. 
 Live Demo
 You can access the live, deployed version of this application here:
 
-[Link to your deployed Streamlit Cloud app]
+[Streamlit Cloud app](https://neostats-chatbot.streamlit.app/)]
 
 Core Features Implemented
 This chatbot is equipped with the following features as required by the assessment:
@@ -75,11 +75,11 @@ cd AI_UseCase
 
 2. Create and Activate a Virtual Environment (Recommended)
 
-# For Windows
+For Windows
 python -m venv .venv
 .\.venv\Scripts\activate
 
-# For macOS/Linux
+For macOS/Linux
 python3 -m venv .venv
 source .venv/bin/activate
 
@@ -93,11 +93,11 @@ Create a file named .env in the root of the project directory.
 
 Add your secret API keys to this file. This file is included in .gitignore and will not be committed.
 
-# .env file
+.env file
 OPENAI_API_KEY="sk-proj-..."
 GROQ_API_KEY="gsk_..."
 SERPAPI_KEY="..."
-# Or GOOGLE_CSE_KEY="..." and GOOGLE_CX="..."
+Or GOOGLE_CSE_KEY="..." and GOOGLE_CX="..."
 
 5. Run the Application
 
@@ -107,5 +107,5 @@ The application should now be running and accessible in your web browser at http
 
 Presentation Deck
 The final presentation summarizing the project's objectives, approach, and outcomes can be found here:
+[PPT](https://www.canva.com/design/DAGymrHURmM/STP5E7S8NQ32kSzWRt2ZgQ/edit?utm_content=DAGymrHURmM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-[Link to your presentation (e.g., Google Slides, PowerPoint)]
