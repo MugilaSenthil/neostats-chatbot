@@ -70,7 +70,7 @@ To run this project on your local machine, follow these steps:
 
 1. Clone the Repository
 
-git clone [https://github.com/MugilaSenthil/AI_UseCase.git](https://github.com/MugilaSenthil/neostats-chatbot)
+git clone [Github link](https://github.com/MugilaSenthil/neostats-chatbot)
 cd AI_UseCase
 
 2. Create and Activate a Virtual Environment (Recommended)
@@ -108,6 +108,7 @@ The application should now be running and accessible in your web browser at http
 Presentation Deck
 The final presentation summarizing the project's objectives, approach, and outcomes can be found here:
 [PPT](https://www.canva.com/design/DAGymrHURmM/STP5E7S8NQ32kSzWRt2ZgQ/edit?utm_content=DAGymrHURmM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 
 
 
